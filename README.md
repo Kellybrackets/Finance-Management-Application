@@ -2,6 +2,10 @@
 *A Comprehensive Personal Finance Management Application*  
 
 ---
+## screenshort
+![App Screenshot](./screenshot.png) <!-- Add actual screenshot -->
+---
+
 
 ## 📑 Table of Contents  
 1. [Project Overview](#-project-overview)  
